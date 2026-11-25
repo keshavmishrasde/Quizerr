@@ -1,0 +1,197 @@
+{
+  "Python": {
+    "easy": [
+      {
+        "type": "mcq",
+        "question": "Which function is used to print output in Python?",
+        "options": ["echo()", "print()", "console.log()", "write()"],
+        "answer": "print()"
+      },
+      {
+        "type": "tf",
+        "question": "Python lists are mutable.",
+        "answer": true
+      }
+    ],
+    "medium": [
+      {
+        "type": "mcq",
+        "question": "What is the output of len({1, 2, 2, 3})?",
+        "options": ["2", "3", "4", "Error"],
+        "answer": "3"
+      },
+      {
+        "type": "tf",
+        "question": "Tuples can be modified after creation.",
+        "answer": false
+      }
+    ],
+    "hard": [
+      {
+        "type": "mcq",
+        "question": "What is the output of bool(\"False\")?",
+        "options": ["False", "True", "Error", "None"],
+        "answer": "True"
+      }
+    ]
+  },
+  "Physics": {
+    "easy": [
+      {
+        "type": "mcq",
+        "question": "What is the SI unit of force?",
+        "options": ["Joule", "Watt", "Newton", "Pascal"],
+        "answer": "Newton"
+      },
+      {
+        "type": "tf",
+        "question": "The speed of light is greater than the speed of sound.",
+        "answer": true
+      }
+    ],
+    "medium": [
+      {
+        "type": "mcq",
+        "question": "A 2 kg body moves at 3 m/s. What is its kinetic energy?",
+        "options": ["3 J", "6 J", "9 J", "18 J"],
+        "answer": "9 J"
+      },
+      {
+        "type": "tf",
+        "question": "In a vacuum, heavier objects fall faster than lighter ones.",
+        "answer": false
+      }
+    ],
+    "hard": [
+      {
+        "type": "mcq",
+        "question": "The time period of a simple pendulum depends on:",
+        "options": [
+          "Mass of the bob only",
+          "Length and g",
+          "Amplitude only",
+          "Mass and length"
+        ],
+        "answer": "Length and g"
+      }
+    ]
+  },
+  "Maths": {
+    "easy": [
+      {
+        "type": "mcq",
+        "question": "What is the square root of 144?",
+        "options": ["10", "11", "12", "14"],
+        "answer": "12"
+      },
+      {
+        "type": "tf",
+        "question": "0 is an even number.",
+        "answer": true
+      }
+    ],
+    "medium": [
+      {
+        "type": "mcq",
+        "question": "What is the derivative of x^2?",
+        "options": ["x", "2x", "x^2", "2"],
+        "answer": "2x"
+      },
+      {
+        "type": "tf",
+        "question": "The value of sin 90 degrees is 1.",
+        "answer": true
+      }
+    ],
+    "hard": [
+      {
+        "type": "mcq",
+        "question": "How many distinct arrangements are there of the letters of the word MOON?",
+        "options": ["24", "12", "6", "8"],
+        "answer": "12"
+      }
+    ]
+  },
+  "Chem": {
+    "easy": [
+      {
+        "type": "mcq",
+        "question": "What is the chemical symbol of sodium?",
+        "options": ["So", "Sd", "Na", "S"],
+        "answer": "Na"
+      },
+      {
+        "type": "tf",
+        "question": "The chemical formula of water is H2O.",
+        "answer": true
+      }
+    ],
+    "medium": [
+      {
+        "type": "mcq",
+        "question": "What is the pH of a neutral solution at 25 C?",
+        "options": ["0", "1", "7", "14"],
+        "answer": "7"
+      },
+      {
+        "type": "tf",
+        "question": "Noble gases are highly reactive.",
+        "answer": false
+      }
+    ],
+    "hard": [
+      {
+        "type": "mcq",
+        "question": "What is the hybridization of carbon in methane (CH4)?",
+        "options": ["sp", "sp2", "sp3", "sp3d"],
+        "answer": "sp3"
+      }
+    ]
+  },
+  "Web Dev": {
+    "easy": [
+      {
+        "type": "mcq",
+        "question": "What does HTML stand for?",
+        "options": [
+          "HyperText Markup Language",
+          "HighText Machine Language",
+          "Hyperlinks and Text Markup Language",
+          "Home Tool Markup Language"
+        ],
+        "answer": "HyperText Markup Language"
+      },
+      {
+        "type": "tf",
+        "question": "CSS is used for styling web pages.",
+        "answer": true
+      }
+    ],
+    "medium": [
+      {
+        "type": "mcq",
+        "question": "Which JS method selects an element by its id?",
+        "options": [
+          "querySelectorAll()",
+          "getElementById()",
+          "getElementsByClass()",
+          "findById()"
+        ],
+        "answer": "getElementById()"
+      },
+      {
+        "type": "tf",
+        "question": "In JavaScript, === checks both value and type.",
+        "answer": true
+      }
+    ],
+    "hard": [
+      {
+        "type": "mcq",
+        "question": "In Express.js, which method is used to register middleware?",
+        "options": ["app.use()", "app.listen()", "app.render()", "app.set()"],
+        "answer": "app.use()"
+      }
+    ]
+  }
+}
